@@ -3,7 +3,7 @@
 Audio and video downloader.
 
 Requirements for Windows 10:
-Install python
+Install python \n
 open CMD
 Copy paste and install these two -> "python3 get-pip.py" , "p youtube-dl install".
 

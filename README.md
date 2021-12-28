@@ -1,17 +1,3 @@
-# Tkinter Youtube Downloader
-
-
-Audio and video downloader.<br>
-
-Requirements for Windows 10:<br>
-Install python,<br>
-open CMD,<br>
-Copy paste and install these two commands -> "python3 get-pip.py" , "pip youtube-dl install".
-<br><br>
-Now you can use the Downloader
-
-----------------------------------------------------------
-
 
 Ses ve video indirici<br>
 
